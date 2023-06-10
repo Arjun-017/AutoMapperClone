@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainApplication", "MainApplication\MainApplication.csproj", "{16C9CD0E-3CFC-487F-B91D-78AA1F01F285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapperClone", "QuickMapper\AutoMapperClone.csproj", "{5D90AAF1-D735-4868-8DB6-064D7CDF016E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16C9CD0E-3CFC-487F-B91D-78AA1F01F285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C9CD0E-3CFC-487F-B91D-78AA1F01F285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C9CD0E-3CFC-487F-B91D-78AA1F01F285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C9CD0E-3CFC-487F-B91D-78AA1F01F285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D90AAF1-D735-4868-8DB6-064D7CDF016E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D90AAF1-D735-4868-8DB6-064D7CDF016E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D90AAF1-D735-4868-8DB6-064D7CDF016E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D90AAF1-D735-4868-8DB6-064D7CDF016E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B1C9DEC-94E0-432D-9201-EF4368AC0051}
+	EndGlobalSection
+EndGlobal
